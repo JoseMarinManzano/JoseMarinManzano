@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hola, mi nombre es Jose Marin (luckhacker)
+Analista de Ciberseguidad - BLUE TEAM
+
+Además de mi día a día en este gran mundo, en mis ratos libres me dedico a desarrollar herramientas que me faciliten y automaticen ciertas tareas de mi día a día
+
+## ReputacionIP
+Aquí vamos a encontrar un pequeño script escrito en Python que mediante la API de virustotal, vamos a comprobar la reputación de una IP.
 
 <!--
 **JoseMarinManzano/JoseMarinManzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
