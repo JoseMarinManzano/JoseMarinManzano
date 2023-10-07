@@ -4,7 +4,8 @@ Analista de Ciberseguidad - BLUE TEAM
 Además de mi día a día en este gran mundo, en mis ratos libres me dedico a desarrollar herramientas que me faciliten y automaticen ciertas tareas de mi día a día
 
 ## ReputacionIP
-Aquí vamos a encontrar un pequeño script escrito en Python que mediante la API de virustotal, vamos a comprobar la reputación de una IP.
+Aquí vamos a encontrar un pequeño script escrito en Python que mediante la API de virustotal, vamos a comprobar la reputación de una IP, si tiene votos negativos, el ASN y el proveedor de la IP.
+Antes, debemos tener un fichero con todas las IP's que queremos comprobar. El resultado nos lo saca en un CSV para su porterior tratamiendo.
 
 <!--
 **JoseMarinManzano/JoseMarinManzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
